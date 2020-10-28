@@ -1,15 +1,12 @@
-# ML-Model-Selection-Python-R-
+# Model Selection (w/ Python & R)
 This repository contains the 2 common Model selection method that will help you determine the right parameters required for the model and provides better prediction accuracy on the final result. K-Fold and grid search are two model selection techniques available on the repository.
-
-# Classifications (w/ Python & R)
-This repository consists of various classification techniques such as Logistic regression, Decision Tree, K Nearest Neighbors, Naive Bayes, Random Forest Classification, Support Vector Machine (SVM) and Kernel-SVM.
 
 # **Project name:** # Classifications (w/ Python & R)
 
 ## Description
-&nbsp;&nbsp;&nbsp;&nbsp;Classification in machine learning is a predictive modeling preoblem where a class lable is predicted for a given example of given data. For e.g. classify if e-mail is spam or ham, to predict if the person is diabetic and more.
+&nbsp;&nbsp;&nbsp;&nbsp;Method selection is the process of finalizing your model based on various potential modeling options. Here in these repository, we are  learning about two model selection techniques namely "K-Fold" and "Grid Search" that can help you determiong the right model with optimum parameters for better and acurate predictions on any Classification and Regressions models. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;In this repository, we are focusing on building complex statistical Classification models to predict and visualize the prediction results on categorical dependent variables. Based on the nature of problem and dataset, we can determine the right classification techniques for better accuracy.
+&nbsp;&nbsp;&nbsp;&nbsp;In this repository, we are implementing some commonly used model selection technique to enhance the performance of model by determining right type of model and by using right parameters for best results.
 
 
 ## Installation 
@@ -21,10 +18,7 @@ This repository consists of various classification techniques such as Logistic r
   * R (For R implementation)
 
 ## Usage
-&nbsp;&nbsp;&nbsp;&nbsp;Classification methods are very common term and technique in the field of data science. You can use these classification methods to predict the categorical dependent variables such as status of email (ham or spam), result of student in exam (Pass or Fail), etc.
-
-## Contributing
-&nbsp;&nbsp;&nbsp;You can implement these different models on the same dataset to determine the most accurate model.
+&nbsp;&nbsp;&nbsp;&nbsp;Model Selection is one of the very important technique to implement for the enhancement of your model. You can use these model selection methods to make your existing model even more sophisticated.
 
 ## Credits 
 &nbsp;&nbsp;&nbsp;This was an individual project.
