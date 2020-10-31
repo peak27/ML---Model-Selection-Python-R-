@@ -20,10 +20,6 @@ This repository contains the 2 common Model selection method that will help you 
 ## Usage
 &nbsp;&nbsp;&nbsp;&nbsp;Model Selection is one of the very important technique to implement for the enhancement of your model. You can use these model selection methods to make your existing model even more sophisticated.
 
-## Credits 
-&nbsp;&nbsp;&nbsp;This was an individual project.
-
-**License:** Licenced by me.
 
 
 
